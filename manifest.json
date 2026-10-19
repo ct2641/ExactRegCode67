@@ -1,0 +1,108 @@
+{
+  "format_version": 1,
+  "description": "Exact finite incoming-contraction certificates proving all layered facets through n=7, together with analytic cutset bases.",
+  "source_archive": "recursion_handoff_bundle(1).zip",
+  "source_archive_sha256": "ac349d674698617db9d46d1c2f5189a653f060a0e9300a89c005abbd2b62a2ad",
+  "certificates": [
+    {
+      "file": "certificates/certificate_star_n4_r2.json",
+      "n": 4,
+      "r": 2,
+      "p": 3,
+      "q": 1,
+      "terms": 10,
+      "scale": 1,
+      "sha256": "ae6b25d4351bfbc22d72343514f94e1cda54e95b1bb224572c330722ab4856fe"
+    },
+    {
+      "file": "certificates/certificate_star_n5_r2.json",
+      "n": 5,
+      "r": 2,
+      "p": 3,
+      "q": 1,
+      "terms": 86,
+      "scale": 48,
+      "sha256": "d7082fc02043e0a56f52818e1645ab75474ac1f871ba76bc1ad2841fe3edaa62"
+    },
+    {
+      "file": "certificates/certificate_star_n5_r3.json",
+      "n": 5,
+      "r": 3,
+      "p": 6,
+      "q": 1,
+      "terms": 93,
+      "scale": 12613,
+      "sha256": "4e09d7592688210cd918adbf7048e76ca04bb65e6b092c3c8ec78be9bb11dd81"
+    },
+    {
+      "file": "certificates/certificate_star_n6_r2.json",
+      "n": 6,
+      "r": 2,
+      "p": 3,
+      "q": 1,
+      "terms": 250,
+      "scale": 500,
+      "sha256": "78ac82e4de0c9ff55e9a9b65f5d37f5e0068599993311c4962542c5cd3e2ef8d"
+    },
+    {
+      "file": "certificates/certificate_star_n6_r3.json",
+      "n": 6,
+      "r": 3,
+      "p": 6,
+      "q": 1,
+      "terms": 203,
+      "scale": 86,
+      "sha256": "9ef82f85935ae10fa9e64269532cc2bf034b612ac236f476cd9e907f6065324e"
+    },
+    {
+      "file": "certificates/certificate_star_n6_r4.json",
+      "n": 6,
+      "r": 4,
+      "p": 10,
+      "q": 1,
+      "terms": 42,
+      "scale": 1,
+      "sha256": "c3c84d0301c27904a5cff2a8811ce99aa249245daa4774cf1bb4e891e207bc0c"
+    },
+    {
+      "file": "certificates/certificate_star_n7_r2.json",
+      "n": 7,
+      "r": 2,
+      "p": 3,
+      "q": 1,
+      "terms": 117,
+      "scale": 1,
+      "sha256": "b2d1cd98664221c0462caa0b0e850c210965de7b6729f429837f8dbccded50cd"
+    },
+    {
+      "file": "certificates/certificate_star_n7_r3.json",
+      "n": 7,
+      "r": 3,
+      "p": 6,
+      "q": 1,
+      "terms": 1144,
+      "scale": 1282833116168492207230,
+      "sha256": "fa56d27d71fdee19bb0730a2609499fe6467cd67331f96f86a03c98c34880305"
+    },
+    {
+      "file": "certificates/certificate_star_n7_r4.json",
+      "n": 7,
+      "r": 4,
+      "p": 20,
+      "q": 1,
+      "terms": 501,
+      "scale": 27333712,
+      "sha256": "395ec2ae9ccdd746a773146a1ec21d5da161aca215ba58e7c899a73e44d4e49c"
+    },
+    {
+      "file": "certificates/certificate_star_n7_r5.json",
+      "n": 7,
+      "r": 5,
+      "p": 15,
+      "q": 1,
+      "terms": 213,
+      "scale": 72308,
+      "sha256": "b6a44932213d68e671bb6743d824a85f9d4edc7133a8654138405be05491ae3c"
+    }
+  ]
+}
